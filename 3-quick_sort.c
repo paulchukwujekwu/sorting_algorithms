@@ -2,7 +2,7 @@
 
 /**
  * partition - This scans a partition of an array of integers for values
- * less than pivot value, and then swaps them with first value in the partition,
+ * less than pivot value, then swaps them with first value in the partition,
  * subsequently swaps pivot value with first value in the partition
  * @array: array of integers being sorted
  * @low: the index in array that starts the partition
